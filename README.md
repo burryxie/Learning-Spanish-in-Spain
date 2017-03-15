@@ -18,4 +18,5 @@
 16. diculpe -- sorry
 17. hola -- hello
 18. agua -- water
-19. 
+19. importante -- importante
+20. mono -- monckey
