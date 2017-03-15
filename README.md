@@ -6,3 +6,16 @@
 4. pollo -- chick
 5. perro -- dog
 6. pato  -- duck
+7. bolso -- handbag
+8. fruta -- fruit
+9. arroz -- rice
+10. niño -- boy
+11. niña -- girl
+12. hombre -- man
+13. mujer -- woman
+14. gracias -- thank you
+15. de nada -- you are wrlcome
+16. diculpe -- sorry
+17. hola -- hello
+18. agua -- water
+19. 
