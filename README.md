@@ -3,7 +3,7 @@
 ---
 
 #|Enpano|English
--|-|
+-|-|-|
 1|hasta mañana|see you tomorrow
 2|buenos días|good morning
 3|Yo no hablo Españo|I can not speak Spanish
