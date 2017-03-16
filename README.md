@@ -31,7 +31,7 @@
 ---
 
 #|Enpano|English
--|-|
+-|-|-|
 22|adios|bye
 23|buenas tardes|good afternoon
 24|sol|sun
