@@ -68,6 +68,9 @@
 2017-3-22
 ---
 
+
+#|Enpano|English
+-|-|-|
 1|bomba|bomb
 2|un beso|kiss
 3|isla|island
