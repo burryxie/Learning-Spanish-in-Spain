@@ -63,3 +63,13 @@
 50|queso|cheese
 51|que|what
 52|cuanto|how much
+---
+
+2017-3-22
+---
+
+1|bomba|bomb
+2|un beso|kiss
+3|isla|island
+4|que tal|how are you
+5|
