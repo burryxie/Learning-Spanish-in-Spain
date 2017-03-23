@@ -75,4 +75,17 @@
 2|un beso|kiss
 3|isla|island
 4|que tal|how are you
-5|
+
+
+2017-3-22
+---
+
+
+1|hoy|today
+2|pero|but
+3|perdon|sorry
+4|caja|box
+5|baja|drop
+6|cero|zero
+7|diez|ten
+8|once|eleven
