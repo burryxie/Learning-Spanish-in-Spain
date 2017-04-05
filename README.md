@@ -90,3 +90,15 @@
 6|cero|zero
 7|diez|ten
 8|once|eleven
+
+
+
+
+2017-3-23
+---
+
+#|Enpano|English
+1.|cada|every, cada estudiante
+2.|todos los dias|every day
+3.|signatura|subject
+4.|lectura|reading
